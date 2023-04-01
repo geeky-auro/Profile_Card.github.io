@@ -192,3 +192,8 @@ body {
   grid-column: 4;
   grid-row: 1;
 }
+
+.Others{
+  grid-column: 5;
+  grid-row: 1;
+}
