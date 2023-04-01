@@ -169,8 +169,8 @@ body {
   padding: auto;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  gap: 5px;
-  grid-auto-rows: minmax(20px, auto);
+  gap: 10px;
+  grid-auto-rows: minmax(30px, auto);
 }
 
 .github{
