@@ -207,7 +207,10 @@ body {
 
 .profile-picture{
   position: absolute;
-  top: 25%;
+  top: 26%;
   left: 50%;
+  right: 50%;
   transform: translate(-50%, -50%);
 }
+
+
