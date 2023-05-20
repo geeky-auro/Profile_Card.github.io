@@ -22,7 +22,7 @@ body {
   box-shadow: 0px 1rem 1.5rem rgba(0,0,0,0.5);
 }
 .card .banner {
-  background-image:url("https://images.unsplash.com/photo-1546443046-ed1ce6ffd1ab?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2070&q=80");
+  background-image:url("/gamz.png");
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -196,4 +196,18 @@ body {
 .Others{
   grid-column: 5;
   grid-row: 1;
+}
+
+.profile-picture {
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  background-color: #ccc;
+}
+
+.profile-picture{
+  position: absolute;
+  top: 25%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
